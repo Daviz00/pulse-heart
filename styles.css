@@ -17,7 +17,7 @@ body {
   height: 100px;
   background: #98002e;
   position: relative;
-  transform: rotate(-45deg);
+  transform: rotate(-45deg) scale(1);
   animation: pulse 1s linear infinite;
 }
 
